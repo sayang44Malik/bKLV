@@ -1,2 +1,2 @@
 # bKLV
-## PancakeSwap V3 LP Token  Our liquidity is live on PancakeSwap V3.  - **LP Contract Address:** `0x754162EDD28EF89AcAb579F150AeAA10DbC77793` - **Pool:** bKLV / BNB  You can verify or track the LP token on BscScan.
+Official repository for the BaklavaX Token (bKLV) - Contract Address: 0x3c420A8a80a5a45248Fb1CA6Bc9134740c978414
